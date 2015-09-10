@@ -1,0 +1,12 @@
+background_b: 255
+background_g: 86
+background_r: 150
+rosdistro: 'indigo
+
+  '
+roslaunch:
+  uris: {host_en_cs_lgg03_04_coecis_cornell_edu__57308: 'http://en-cs-lgg03-04.coecis.cornell.edu:57308/'}
+rosversion: '1.11.9
+
+  '
+run_id: 5d68353a-57e6-11e5-a1e0-180373e0b8b1
