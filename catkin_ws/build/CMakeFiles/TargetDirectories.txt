@@ -1,0 +1,6 @@
+/home/cs4752/tmp/ros-play/catkin_ws/build/CMakeFiles/clean_test_results.dir
+/home/cs4752/tmp/ros-play/catkin_ws/build/CMakeFiles/doxygen.dir
+/home/cs4752/tmp/ros-play/catkin_ws/build/gtest/CMakeFiles/gtest.dir
+/home/cs4752/tmp/ros-play/catkin_ws/build/gtest/CMakeFiles/gtest_main.dir
+/home/cs4752/tmp/ros-play/catkin_ws/build/CMakeFiles/run_tests.dir
+/home/cs4752/tmp/ros-play/catkin_ws/build/CMakeFiles/tests.dir

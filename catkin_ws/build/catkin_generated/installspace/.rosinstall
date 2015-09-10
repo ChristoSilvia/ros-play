@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/cs4752/tmp/ros-play/catkin_ws/install/setup.sh
